@@ -1,0 +1,162 @@
+*
+{
+    margin: 0px;
+    
+}
+.oreja1
+{
+    background-color: hsl(25, 40%, 45%);
+    width: 40px;
+    height: 40px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(130, 81, 51);
+    border-radius: 60%;
+    position: fixed;
+    top: 50px;
+    left: 245px;
+
+}
+.oreja2
+{
+    background-color: hsl(25, 40%, 45%);
+    width: 40px;
+    height: 40px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(130, 81, 51);
+    border-radius: 60%;
+    position: fixed;
+    top: 50px;
+    left: 400px;
+}
+.cabeza
+{
+    background-color: rgb(130, 81, 51);
+    width: 200px;
+    height: 200px;
+    border-radius: 60%;
+    position: fixed;
+    top: 50px;
+    left: 250px;
+}
+.ojo1
+{
+    background-color: rgb(255, 255, 255);
+    width: 15px;
+    height: 15px;
+    border-width: 8px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 60%;
+    position: absolute;
+    top: 75px;
+    left: 50px;
+}
+.ojo2
+{
+    background-color: rgb(255, 255, 255);
+    width: 15px;
+    height: 15px;
+    border-width: 8px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 75px;
+    right: 50px;
+
+}
+.nariz
+{
+    background-color: rgb(104, 12, 12);
+    width: 30px;
+    height: 30px;
+    border-radius: 45%;
+    position: absolute;
+    top: 100px;
+    left: 85px;
+}
+.boca
+{
+    background-color: black;
+    width: 60px;
+    height: 20px;
+    border-radius:40%;
+    position: absolute;
+    top: 140px;
+    left: 70px;
+}
+.brazo1
+{
+    background-color: rgb(130, 81, 51);
+    width: 150px;
+    height: 75px;
+    border-radius: 45%;
+    border-left: 11px;
+    border-left-color: black;
+    border-left-style: dotted;
+    position: fixed;
+    top: 250px;
+    left: 115px;
+
+}
+.brazo2
+{
+    background-color: rgb(130, 81, 51);
+    width: 150px;
+    height: 75px;
+    border-radius: 45%;
+    border-right: 11px;
+    border-right-color: black;
+    border-right-style: dotted;
+    position: fixed;
+    top: 250px;
+    left: 435px;
+}
+.cuerpo
+{
+    background-color: rgb(130, 81, 51);
+    width: 300px;
+    height: 300px;
+    border-radius: 45%;
+    position: fixed;
+    top: 240px;
+    left: 200px;
+}
+.panza
+{
+    background-color: rgb(163, 127, 99);
+    width: 200px;
+    height: 200px;
+    border-radius: 45%;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.pata1
+{
+    background-color: rgb(130, 81, 51);
+    width: 100px;
+    height: 75px;
+    border-radius: 45%;
+    border-left: 12px;
+    border-left-color: black;
+    border-left-style: dotted;
+    position: fixed;
+    top: 450px;
+    left: 160px;
+}
+.pata2
+{
+    background-color: rgb(130, 81, 51);
+    width: 100px;
+    height: 75px;
+    border-radius: 45%;
+    border-right: 12px;
+    border-right-color: black;
+    border-right-style: dotted;
+    position: fixed;
+    top: 450px;
+    left: 435px;
+}
